@@ -38,15 +38,14 @@ Check out the live website here: [▶ View Demo](https://muradisazade777.github.
 ---
 
 ## 📂 Folder Structure
+- `index.html`  
+- `css/`
+  - `style.css`  
+- `js/`
+  - `script.js`  
+- `assets/`
+  - `images/`  
+- `portfolio-review.png`  
+- `README.md`  
 
-portfolio-website/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   └── images/
-│       └── portfolio-preview.png
-└── README.md
-Designed & developed with ❤️ by Murad
+Designed & developed with ❤️ by Murad.
