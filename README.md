@@ -3,6 +3,7 @@
 A modern, fully responsive **Portfolio Website Template** built with HTML, CSS, and JavaScript.  
 This project is designed to showcase personal projects, skills, and achievements in a clean and professional way.
 
+![Portfolio Preview](./Copilot_20250923_213554.png)
 
 
 ---
@@ -30,7 +31,6 @@ This project is designed to showcase personal projects, skills, and achievements
 ## 📸 Preview
 
 Here’s a visual overview of the layout:
-
 
 
 ---
