@@ -32,7 +32,9 @@ This project is designed to showcase personal projects, skills, and achievements
 
 Here’s a visual overview of the layout:
 
+🔗 Live Demo
 
+Check out the live website here: [🌐 View Demo](https://muradisazade777.github.io/Simple-animated-Portfolio/)
 ---
 
 ## 📂 Folder Structure
